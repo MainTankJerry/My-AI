@@ -1,2 +1,2 @@
 # My-AI
-This is the place I put random stuff. Nothing to do with AI LOL.
+This is the place I put my A.I.
